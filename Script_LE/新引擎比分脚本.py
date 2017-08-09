@@ -13,6 +13,7 @@ s8 = 0
 s9 = 0
 s10 = 0
 
+# This is a test
 # 执行操作
 for i in range(10):
     url1 = "http://119.29.114.101:8004/game?acid=1121&ver=2.0.2"
