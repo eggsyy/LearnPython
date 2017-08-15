@@ -28,7 +28,7 @@ for i in range(f):
     penaltyScore = (r1.json()["data"]["luaMatchvo"]["matchlog"]["peraltyScore"])
     Abs_score = abs(atkScore - defScore)
 
-    # 定义函数
+    # 定义方法
     def no_goal():
         print '没人进球，点球大战 '
         print ''
